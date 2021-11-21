@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+
+
+body { 
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+
+
+}
+
+main {
+background-color: white;
+max-width:550px;
+padding: 10px;
+margin:auto; 
+border-radius:10px;
+box-shadow:5px 5px 15px black;
+
+
+
+}
+
+h1 {
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    font-size: 3em;
+
+}
+
+h2 {
+   text-align: center;
+
+}
+
+nav {
+    background-color:azure;
+}
+
+nav > a {
+ text-decoration:none;
+ color: blue;
+ font-weight:bold;
+ margin-left: 30px;
+ margin-right:35px;
+ min-width: 1px;
+ 
+
+
+
+
+}
+
+nav > a:hover {
+   text-decoration: underline;
+
+}
+
+img {
+    width:100%;
+}
+
+
+
+
+
